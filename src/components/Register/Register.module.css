@@ -1,0 +1,65 @@
+.container{
+    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  margin-top: 2rem;
+  
+}
+
+
+h2{
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+label{
+    color: white;
+  margin: 14px 0;
+  display: block;
+  font-size: 18px;
+  line-height: 1;
+    
+}
+
+.container input{
+    width: 100%;
+  border: none;
+  outline: none;
+  font-size: 19px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.box{
+    padding: 60px;
+  margin: auto;
+  width: 100%;
+  max-width: 400px;
+  min-height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #274769;
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+    
+}
+
+button{
+    border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background: #3b6b9e;
+  cursor: pointer;
+}
+
+.labelText {
+    font-size: 0.8em;
+    margin-bottom: 0.7em;
+  }
